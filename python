@@ -1,0 +1,7 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 18, 2020 - 13:25:38
+Django version 3.0.8, using settings 'blog_post.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
